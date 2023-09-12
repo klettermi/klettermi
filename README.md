@@ -10,22 +10,25 @@
  늘 꾸준히 TIL을 작성하여 현재 상태와 문제점을 직시하고 해결하려고 노력합니다. ✨ <br/><br/>
 </p>
 
+<!-- 백준 티어 -->
+<p>
+  <a href="https://solved.ac/klettermi">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=klettermi" />
+  </a>
+</p>
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klettermi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klettermi&layout=compact&hide_border=true&theme=white)
   
- 
-
-
-  
-  
+<br> 
 
 ## 👩🏻‍💻 Tech Stack
 <p>
   
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
-  <br> 
+  <br>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
   <br> 
@@ -33,8 +36,11 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br>
-
   <br>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <br>
+
 </p>
 
 <p>
